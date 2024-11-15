@@ -27,6 +27,13 @@ This commands includes
 <BR>
 
 ## Output
+# ipconfig:
+![Screenshot 2024-11-15 135830](https://github.com/user-attachments/assets/8cbe92fb-b40f-4bf6-9e34-b3445f8edee6)
+
+# netstat:
+![Screenshot 2024-11-15 140124](https://github.com/user-attachments/assets/d00e80ef-c180-4648-b4d3-cf316c2c0af7)
+
+
 # PING:
 ![Screenshot 2024-11-04 142232](https://github.com/user-attachments/assets/05676c6e-78e9-4dee-890e-fe9cc331e364)
 
